@@ -1,8 +1,7 @@
-This is a Prince tribute page. His Royal Badness.
+A tribute page for the late and great Prince. 
 
-This is my first webpage in my portfolio.
+The first assignment for freeCodeCamp's Responsive Web Design course.
 
-The page is live at the following URL:
+Check it out here:
+
 https://freddykwon.github.io/prince_tribute_page/
-
-Enjoy!
